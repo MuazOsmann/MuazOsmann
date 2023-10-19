@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muaz Osman</h1>
-<h2 align="center">💫 About Me</h2>
+<h2 align="left">💫 About Me</h2>
 Actively pursuing an internship or co-op to apply my expertise in systems administration, risk assessment, programming, and security evaluation. Ready to contribute and grow in the dynamic field of cybersecurity.
 
 
